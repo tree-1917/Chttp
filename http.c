@@ -14,7 +14,7 @@
 #include <pthread.h>
 #include <sys/time.h>
 
-#define PORT 8080  
+#define PORT 8110  
 #define BUFFER_SIZE 1024
 #define THREAD_POOL_SIZE 5 
 #define QUEUE_SIZE 100

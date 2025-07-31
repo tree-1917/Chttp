@@ -2,6 +2,10 @@
 
 > outline 
 
-- [ ] http reoutes 
-- [ ] 
+- [ ] http routes  
+- [ ] pool thread 
+- [ ] client queue
 
+--- 
+
+> 
